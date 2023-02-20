@@ -1,1 +1,1 @@
-temp readme
+old assets from librequake that have been removed for various reasons, along with source files.
