@@ -1,0 +1,25 @@
+#ignored folders
+.stversions/
+.obsidian/
+autosave/
+
+
+#ignored files
+.directory
+.nomedia
+*-crash.txt
+*.sav
+*.log
+*.texinfo
+*.pts
+*.prt
+*.json
+*.cfg
+
+
+#included files
+!lq1/default.cfg
+!lq1/dev.cfg
+!lq1/zoom90.cfg
+!lq1/zoom120.cfg
+
