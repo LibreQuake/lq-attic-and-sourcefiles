@@ -1,7 +1,9 @@
 #ignored folders
 .stversions/
 .obsidian/
+.autosave/
 autosave/
+lq1/screenshots/
 
 
 #ignored files
@@ -12,15 +14,22 @@ autosave/
 *.blend3
 *.blend4
 *.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.blend10
 *-crash.txt
 *.sav
 *.log
 *.texinfo
 *.pts
 *.prt
+*.png~
+*.kra~
 *.json
 *.cfg
-
+*.kate-swp
 
 #included files
 !lq1/default.cfg
