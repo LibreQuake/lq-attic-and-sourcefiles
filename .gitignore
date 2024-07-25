@@ -9,6 +9,7 @@ src/models/misc/gib/archive/
 #ignored files
 .directory
 .nomedia
+*.nomedia
 *.blend1
 *.blend2
 *.blend3
@@ -36,4 +37,3 @@ src/models/misc/gib/archive/
 !lq1/dev.cfg
 !lq1/zoom90.cfg
 !lq1/zoom120.cfg
-
